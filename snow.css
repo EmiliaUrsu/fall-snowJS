@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(115, 214, 214);
+}
+#snowContainer{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    border: 1px solid black;
+}
+#snowContainer .flake {
+width: 10px;
+height: 10px;
+border-radius: 100%;
+background-color: whitesmoke;
+position: absolute;
+
+}
